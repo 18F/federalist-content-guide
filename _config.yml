@@ -1,0 +1,97 @@
+baseurl: /federalist-content-guide
+markdown: redcarpet
+name: A Content Guide for the Federalist Platform
+exclude:
+- go
+- copy-template
+- Gemfile
+- Gemfile.lock
+- README.md
+- LICENSE.md
+
+permalink: pretty
+highlighter: rouge
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: 18F
+  url: https://18f.gsa.gov
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl: /assets/img/18f-logo.png
+logoalt: 18F logo
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: Introduction
+  url: index.html
+  internal: true
+- text: Best Practices for Content
+  url: best-practices-for-content/
+  internal: true
+  children:
+    - text: Using Active Voice
+      url: using-active-voice/
+      internal: true
+    - text: Acronyms
+      url: acronyms
+      internal: true
+    - text: Address the User
+      url: address-the-user/
+      internal: true
+    - text: Avoid Duplication
+      url: avoid-duplication/
+      internal: true
+    - text: Be Concise
+      url: be-concise/
+      internal: true
+    - text: Conscious Style
+      url: conscious-style/
+      internal: true
+    - text: Plain Language
+      url: plain-language/
+      internal: true
+    - text: Capitalization
+      url: capitalization
+      internal: true
+    - text: Publishing Legal and Technical Content
+      url: legal-and-technical-content/
+      internal: true
+    - text: Punctuation
+      url: punctuation/
+      internal: true
+    - text: Optimize Headings and Titles
+      url: optimize-headings-and-titles/
+      internal: true
+    - text: FAQs
+      url: faqs/
+      internal: true
+    - text: Trademarks and Brands
+      url: trademarks-and-brands/
+      internal: true
+    - text: Specific Words and Phrases
+      url: specific-words-and-phrases/
+      internal: true
+    - text: References
+      url: references/
+      internal: true
+- text: Writing About Your Team
+  url: best-practices-for-writing-about-yourselves/
+  internal: true
+- text: Writing About Research
+  url: best-practices-for-writing-about-your-research/
+  internal: true
+- text: Writing Clear Contact Forms
+  url: contact-forms.md
+  internal: true
+
+repos:
+- name: Federalist Content Guide
+  description: Main repository
+  url: https://github.com/18F/federalist-content-guide
+
+# Style Variables
+brand_color: "#1188ff"
+
+google_analytics_ua: UA-48605964-19
