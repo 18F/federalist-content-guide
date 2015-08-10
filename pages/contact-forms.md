@@ -6,7 +6,7 @@ title: Best Practices for Writing Contact Forms
 
 It is important to have a contact form so that people know how to get in touch with your team.
 
-Before constructing a contact form, it is helpful to answer the following questions?
+Before constructing a contact form, it is helpful to answer the following questions:
 
 * What groups are most likely to contact you?
 

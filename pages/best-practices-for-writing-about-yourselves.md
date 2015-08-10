@@ -46,7 +46,7 @@ If there are phrases or words that may be confusing, it helps to restate those p
 
 We always recommend reading what you've written out loud and to someone who doesn't work with you, to see if they are confused. If they have questions, you can then see if there are clearer ways to state what you've written in your about section.
 
-## Examples We Like:
+## Examples we like:
 
 * The Gates Foundation has a very concise "What We Do" on [this page](http://www.gatesfoundation.org/What-We-Do).
 

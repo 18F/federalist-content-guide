@@ -31,7 +31,7 @@ Writing about your research for a lay audience can be challenging. It helps to b
 It is easier for people to understand complex research when it is easy to digest and written in lay terms they can understand. We recommend using plain language to summarize the research and including charts and graphs, when helpful.
 
 
-## Helpful Examples
+## Helpful examples
 
 * Pew publishes [their research](http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/) with a link to the full report, a section called 'Key Themes of this Report', and an overview of what's contained within the report itself. They also use both bold and italic typefaces to surface key takeaways.
 
