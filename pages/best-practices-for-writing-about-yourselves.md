@@ -42,9 +42,9 @@ That's what you want to write in this section.
 
 ### One tip: Do not use words that may confuse your audience.
 
-If there are phrases or words that may be confusing, it helps to restate those phrases.
+If there are phrases or words that may be confusing, it helps to restate those phrases using plain, simple language.
 
-We always recommend reading what you've written out loud and to someone who doesn't work with you, to see if they are confused. If they have questions, you can then see if there are clearer ways to state what you've written in your about section.
+We always recommend reading what you've written out loud to see if it's clear. Better yet, read it to someone who doesn't work with you, and see if they're confused. If they have questions, you can then see if there are clearer ways to say what you mean.
 
 ## Examples We Like:
 
@@ -52,4 +52,4 @@ We always recommend reading what you've written out loud and to someone who does
 
 * The Kickstarter [about page](https://www.kickstarter.com/hello?ref=footer) splits up what to know about the company into seven distinct sections. We like that each section focuses on a particular part of the company's mission.
 
-* The FCC has a very clear and easy to understand [about page](https://www.fcc.gov/what-we-do) which lists how the agency capitalizes on its competencies.
+* The Federal Communications Commission has a very clear and easy to understand [about page](https://www.fcc.gov/what-we-do) which lists how the agency uses its strengths to achieve its mission.
