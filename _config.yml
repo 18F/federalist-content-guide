@@ -27,16 +27,16 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
-- text: Best Practices for Content
+- text: Best practices for content
   url: best-practices-for-content/
   internal: true
-- text: Writing About Your Team
+- text: Writing about your team
   url: writing-who-we-are/
   internal: true
-- text: Writing About Research
+- text: Writing about your research
   url: writing-what-we-do/
   internal: true
-- text: Writing Clear Contact Forms
+- text: Writing clear contact forms
   url: contact-forms/
   internal: true
 
