@@ -18,7 +18,7 @@ Writing about your research for a lay audience can be challenging. It helps to b
 
 * Where can I go to read the complete paper?
 
-* What are larger themes, takeaways or implications of this research?
+* What are larger themes, takeaways, or implications of this research?
 
 * What is the overall point or insight from each section of this research report?
 
@@ -28,11 +28,10 @@ Writing about your research for a lay audience can be challenging. It helps to b
 
 * How does someone contact the team?
 
-It is easier for people to understand complex research when it is easy to digest and written in lay terms they can understand. We recommend using plain language to summarize the research and including charts and graphs, when helpful.
-
+It's easier for people to understand complex research when it's easy to digest and written in lay terms they can understand. We recommend using plain language to summarize the research and including charts and graphs, when helpful.
 
 ## Helpful Examples
 
-* Pew publishes [their research](http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/) with a link to the full report, a section called 'Key Themes of this Report', and an overview of what's contained within the report itself. They also use both bold and italic typefaces to surface key takeaways.
+* Pew publishes [their research](http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/) with a link to the full report, a section called 'Key Themes of this Report', and an overview of what's contained within the report itself. They also use both bold and italic typefaces to highlight important information.
 
 * The Google Civic Innovation team recently published [a report](http://googlepolitics.blogspot.com/2015/06/understanding-americas-interested.html) that included an abstract, the full qualitative and quantitative findings, top insights, and implications of the research. All sections were written in a clear and user-friendly way that assumed no prior knowledge of the topic. We liked that they also included [a deck](https://drive.google.com/file/d/0B4Nqm_QFLwnLSHdRN3dmb3JRaU0/view) that gave concrete examples and key takeaways — and was quite easy to understand.
