@@ -1,7 +1,7 @@
 ---
 permalink: /best-practices-for-content/
 layout: default
-title: Best Practices for Content
+title: Best practices for content
 ---
 
 18F maintains [a content guide](https://pages.18f.gov/content-guide/) that helps writers create clear, accessible and user-friendly content.

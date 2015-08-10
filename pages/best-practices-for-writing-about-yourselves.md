@@ -1,7 +1,7 @@
 ---
 permalink: /writing-who-we-are/
 layout: default
-title: Best Practices for Writing About Yourselves
+title: Best practices for writing about yourselves
 ---
 
 The About section of your website should state what your team does in a clear and user-friendly way.

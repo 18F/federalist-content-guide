@@ -1,7 +1,7 @@
 ---
 permalink: /writing-what-we-do/
 layout: default
-title: Best Practices for Writing About Your Research
+title: Best practices for writing about your research
 ---
 
 Writing about your research for a lay audience can be challenging. It helps to break your research down into the following questions:
