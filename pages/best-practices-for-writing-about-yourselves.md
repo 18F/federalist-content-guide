@@ -1,7 +1,7 @@
 ---
 permalink: /writing-who-we-are/
 layout: default
-title: Best Practices for Writing About Yourselves
+title: Best practices for writing about yourselves
 ---
 
 The About section of your website should state what your team does in a clear and user-friendly way.
@@ -46,7 +46,7 @@ If there are phrases or words that may be confusing, it helps to restate those p
 
 We always recommend reading what you've written out loud to see if it's clear. Better yet, read it to someone who doesn't work with you, and see if they're confused. If they have questions, you can then see if there are clearer ways to say what you mean.
 
-## Examples We Like:
+## Examples we like:
 
 * The Gates Foundation has a very concise "What We Do" on [this page](http://www.gatesfoundation.org/What-We-Do).
 

@@ -1,12 +1,13 @@
 ---
 permalink: /contact-forms/
 layout: default
-title: Best Practices for Writing Contact Forms
+title: Best practices for writing contact forms
 ---
 
 It's important to have a contact form so that people know how to get in touch with your team.
 
 Before constructing a contact form, it's helpful to answer the following questions.
+
 
 * What groups are most likely to contact you?
 
