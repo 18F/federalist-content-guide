@@ -1,6 +1,6 @@
 baseurl: /federalist-content-guide
 markdown: redcarpet
-name: A Content Guide for the Federalist Platform
+name: A content guide for the Federalist platform
 exclude:
 - go
 - copy-template

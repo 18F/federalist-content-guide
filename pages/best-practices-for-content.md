@@ -4,17 +4,17 @@ layout: default
 title: Best practices for content
 ---
 
-18F maintains [a content guide](https://pages.18f.gov/content-guide/) that helps writers create clear, accessible and user-friendly content.
+18F maintains [a content guide](https://pages.18f.gov/content-guide/) that helps writers create clear, accessible, and user-friendly content.
 
 The guide contains sections on:
 
-* [Active Voice](https://pages.18f.gov/content-guide/active-voice/)
+* [Active voice](https://pages.18f.gov/content-guide/active-voice/)
 
 * [Acronyms](https://pages.18f.gov/content-guide/acronyms/)
 
 * [Addressing the user](https://pages.18f.gov/content-guide/address-the-user/)
 
-* [Avoiding Duplication](https://pages.18f.gov/content-guide/avoid-duplication/)
+* [Avoiding duplication](https://pages.18f.gov/content-guide/avoid-duplication/)
 
 * [Being concise](https://pages.18f.gov/content-guide/be-concise/)
 
@@ -34,4 +34,4 @@ The guide contains sections on:
 
 * [Trademarks and brands](https://pages.18f.gov/content-guide/trademarks-and-brands/)
 
-* [Specific Words and Phrases](https://pages.18f.gov/content-guide/specific-words-and-phrases/)
+* [Specific words and phrases](https://pages.18f.gov/content-guide/specific-words-and-phrases/)
