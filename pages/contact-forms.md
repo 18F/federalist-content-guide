@@ -1,6 +1,5 @@
 ---
 permalink: /contact-forms/
-layout: default
 title: Best practices for writing contact forms
 ---
 
