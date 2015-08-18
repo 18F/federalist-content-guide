@@ -1,6 +1,5 @@
 ---
 permalink: /writing-what-we-do/
-layout: default
 title: Best practices for writing about your research
 ---
 

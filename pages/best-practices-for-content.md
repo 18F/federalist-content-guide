@@ -1,6 +1,5 @@
 ---
 permalink: /best-practices-for-content/
-layout: default
 title: Best practices for content
 ---
 

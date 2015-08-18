@@ -1,6 +1,5 @@
 ---
 permalink: /writing-who-we-are/
-layout: default
 title: Best practices for writing about yourselves
 ---
 
