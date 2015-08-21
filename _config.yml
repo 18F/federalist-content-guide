@@ -27,6 +27,9 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
+- text: Writing content for your homepage
+  url: writing-content-for-your-federalist-homepage/
+  internal: true
 - text: Best practices for content
   url: best-practices-for-content/
   internal: true
