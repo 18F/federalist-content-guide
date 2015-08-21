@@ -3,7 +3,7 @@ permalink: /
 title: Introduction
 ---
 
-This guide helps writers who are using the Federalist platform to create departmental websites and share information about your team’s research.
+This guide helps writers who are using the Federalist platform to create departmental websites and share information about your team.
 
 In each section, we outline strategies for conveying information in a way that is both actionable and accessible, so that other groups can learn and apply it to their own work.
 
