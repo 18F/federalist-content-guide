@@ -1,6 +1,6 @@
 ---
 permalink: /writing-content-for-your-federalist-homepage/
-title: Writing Content for Your Homepage
+title: Writing content for your homepage
 ---
 
 We have compiled a series of tips for writing different sections of your Federalist homepage. The homepage is partioned into four sections: mission statement, announcements, the carousel of facts, and a contact form. We explain what content goes in each section below.
