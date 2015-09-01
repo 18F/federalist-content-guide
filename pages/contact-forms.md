@@ -1,6 +1,6 @@
 ---
 permalink: /contact-forms/
-title: Best practices for writing contact forms
+title: Writing clear contact forms
 ---
 
 It's important to have a contact form so that people know how to get in touch with your team.

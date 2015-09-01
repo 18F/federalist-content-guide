@@ -1,6 +1,6 @@
 ---
 permalink: /writing-who-we-are/
-title: Best practices for writing about yourselves
+title: Writing about your team
 ---
 
 The About section of your website should state what your team does in a clear and user-friendly way.
