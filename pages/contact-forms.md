@@ -7,7 +7,6 @@ It's important to have a contact form so that people know how to get in touch wi
 
 Before constructing a contact form, it's helpful to answer the following questions.
 
-
 * What groups are most likely to contact you?
 
 * What will they be contacting you about?
