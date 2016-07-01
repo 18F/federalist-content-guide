@@ -1,3 +1,5 @@
+## **Deprecation Notice** This repo has been deprecated in favor of the more comprehensive [federalist-docs](https://github.com/18f/federalist-docs) repository where this content [is duplicated](https://federalist-docs.18f.gov/pages/content-guide/)
+
 ## 18F Guides Template
 
 This is a skeleton repo containing the
